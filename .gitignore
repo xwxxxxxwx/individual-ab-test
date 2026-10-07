@@ -1,0 +1,19 @@
+﻿# Python
+__pycache__/
+venv/
+*.egg-info/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.idea/
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# 数据文件(如太大可取消注释)
+# *.csv
+# *.xlsx
